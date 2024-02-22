@@ -1,0 +1,51 @@
+{
+  "version": 2,
+  "client_version": "2.1.0",
+  "encrypt": true,
+  "file_content": {
+    "dirs": {
+      "": {
+        "blame": [
+          "gteh@gteh.top",
+          "raw"
+        ]
+      }
+    },
+    "files": {
+      "pack.mcmeta": {
+        "mtime": 1678723470,
+        "sha1": "dcf830abd7b1519684c97f95ea01e414cb886758",
+        "size": 138,
+        "blame": "raw"
+      },
+      "pack.png": {
+        "mtime": 1678723470,
+        "sha1": "add775b91a19be69905dae86c01f84d93f41f928",
+        "size": 21766,
+        "blame": "raw"
+      }
+    }
+  },
+  "dirs": {
+    "": {
+      "blame": [
+        "gteh@gteh.top",
+        "raw"
+      ]
+    }
+  },
+  "files": {
+    "pack.mcmeta": {
+      "mtime": 1678723470,
+      "sha1": "dcf830abd7b1519684c97f95ea01e414cb886758",
+      "size": 138,
+      "blame": "raw"
+    },
+    "pack.png": {
+      "mtime": 1678723470,
+      "sha1": "add775b91a19be69905dae86c01f84d93f41f928",
+      "size": 21766,
+      "blame": "raw"
+    }
+  }
+}
